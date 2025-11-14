@@ -1,0 +1,11 @@
+streamlit>=1.26
+pandas>=2.0
+numpy>=1.24
+transformers>=4.40
+peft>=0.11.0
+accelerate>=0.30
+sentencepiece>=0.1.99
+torch
+
+
+
